@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Experiment 3 (2)</title>
+    </head>
+    <body>
+        <table caption="College Timetable-CSE Department">
+            <tr>
+            
+                <td>Main table row 1 column 1</td>
+                <td>Main table  column 2</td>
+            </tr>
+              <table border="2">
+
+            <tr>
+                <td>Inner table row 1 column 1</td>
+                <td>Inner table row 1 column 2</td>
+            </tr>
+
+            <tr>
+                <td>Inner table row 2 column 1</td>
+                <td>Inner table row 2 column 2</td>
+            </tr>
+
+            <tr>
+                <td>Inner table row 3 column 1</td>
+                <td>Inner table row 3 column 2</td>
+            </tr>
+            
+        </table>
+    </body>
